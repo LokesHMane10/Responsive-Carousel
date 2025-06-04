@@ -22,4 +22,6 @@ A fully responsive **carousel/slider** component built using **React** and **Boo
 - 📄 HTML5
 
 ---
+> 📝 **Note:** Replace all image paths in the component with your own image file paths or URLs.
+
 
